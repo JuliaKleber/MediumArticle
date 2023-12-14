@@ -11,8 +11,8 @@ The webpage includes a banner with a title and a subtitle, followed by several s
 
 ## Screenshot
 
-https://github.com/GoldieCrystal/MediumArticle/assets/142741980/0b947e65-7560-4eee-8a79-89bffd163faa
+![image](https://github.com/GoldieCrystal/MediumArticle/assets/142741980/0b947e65-7560-4eee-8a79-89bffd163faa)
 
 ## Author
 
-Julia Kleber (https://github.com/GoldieCrystal)
+[GoldieCrystal](https://github.com/GoldieCrystal)
