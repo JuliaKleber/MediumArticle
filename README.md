@@ -1,4 +1,4 @@
-## Project Description
+# Medium Page
 
 This project is a simple webpage that demonstrates how to create a layout similar to Medium's in just 10 minutes.
 
@@ -12,7 +12,6 @@ The webpage includes a banner with a title and a subtitle, followed by several s
 ## Screenshot
 
 https://github.com/GoldieCrystal/MediumArticle/assets/142741980/0b947e65-7560-4eee-8a79-89bffd163faa
-
 
 ## Author
 
