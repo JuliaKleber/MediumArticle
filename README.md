@@ -15,4 +15,4 @@ The webpage includes a banner with a title and a subtitle, followed by several s
 
 ## Author
 
-[GoldieCrystal](https://github.com/GoldieCrystal)
+[Julia Kleber](https://github.com/JuliaKleber)
