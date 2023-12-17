@@ -9,6 +9,10 @@ The webpage includes a banner with a title and a subtitle, followed by several s
 * HTML
 * CSS
 
+## Link
+
+https://juliakleber.github.io/MediumArticle/
+
 ## Screenshot
 
 ![image](https://github.com/GoldieCrystal/MediumArticle/assets/142741980/0b947e65-7560-4eee-8a79-89bffd163faa)
